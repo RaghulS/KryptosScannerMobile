@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Raghul/Documents/Development Tools/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ac68dcce29ab7a0261bbab8d9c3fbedc72bb1ce8.jar" />
+    </item>
+    <item
+        jar="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-36209bc047d1e7a3cd4f7733406165e77e317630.jar" />
+    </item>
+    <item
+        jar="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/libs/eneter-messaging-android-6.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d92662a137d6669b9f7b62d2629d30b014cb10bb">
+        <dex dex="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/build/intermediates/pre-dexed/debug/eneter-messaging-android-6.0.0-e1402c5580c57847de20e685c9965548a5bc45ae.jar" />
+    </item>
+    <item
+        jar="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/libs/zxing-2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/build/intermediates/pre-dexed/debug/zxing-2.1-50069d7f6fcab68e1aa8dfaaa3ba520a7940e5ba.jar" />
+    </item>
+    <item
+        jar="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/build/intermediates/pre-dexed/debug/classes-5dbe1e1f0d25fa475ebe88f2d513ad2987b189ca.jar" />
+    </item>
+    <item
+        jar="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Raghul/Documents/Projects/Android/KrytosBarcodeReader/app/build/intermediates/pre-dexed/debug/classes-81f469c740ae6db55560e760e7806e519663389e.jar" />
+    </item>
+
+</items>
